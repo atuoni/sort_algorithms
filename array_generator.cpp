@@ -26,7 +26,7 @@ void array_generator(int *data,int size)
     srand(seed);   //put the seed on the random number generator 
     for(int element=0;element<size;element++)   //run each element of the data array
     {
-        number = rand()%10;   //generate random number in the 0-10 interval
+        number = rand()%100;   //generate random number in the 0-10 interval
         data[element]=number;   // put the number on the data array
         cout<<"Generating array with "<<element+1<<" elements ..."<< endl;  //print on the screen a message for each element generated
     }

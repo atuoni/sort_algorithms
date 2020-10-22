@@ -1,6 +1,6 @@
 //************************************************************************************
 // File:   quick_sort.cpp
-// Author: Amauri Tuoni    Version 1.0
+// Author: Amauri Tuoni    
 // 
 // Program to test quick sort algorithm.
 //
